@@ -4,6 +4,8 @@
 ------
 1. 技术选型
     - ssm框架
+    - commons-fileupload
+    - poi
     - easyui
     - jquery
     - vedio.js
